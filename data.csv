@@ -1,0 +1,21 @@
+track_name,artist_name,popularity,danceability,energy,explicit
+Blinding Lights,The Weeknd,95,0.51,0.73,False
+Shape of You,Ed Sheeran,98,0.82,0.65,False
+Levitating,Dua Lipa,90,0.80,0.68,False
+Peaches,Justin Bieber,85,0.70,0.62,True
+Save Your Tears,The Weeknd,92,0.68,0.64,False
+Stay,The Kid LAROI,93,0.59,0.76,True
+Bad Habits,Ed Sheeran,88,0.81,0.63,False
+Industry Baby,Lil Nas X,91,0.74,0.70,True
+Watermelon Sugar,Harry Styles,89,0.76,0.55,False
+Senorita,Shawn Mendes,87,0.75,0.54,False
+Perfect,Ed Sheeran,94,0.63,0.45,False
+Starboy,The Weeknd,91,0.68,0.59,True
+Happier Than Ever,Billie Eilish,86,0.56,0.48,False
+Montero,Lil Nas X,90,0.79,0.61,True
+Closer,The Chainsmokers,92,0.74,0.52,False
+Girls Like You,Maroon 5,88,0.85,0.50,False
+Believer,Imagine Dragons,90,0.70,0.78,False
+Thunder,Imagine Dragons,87,0.60,0.81,False
+Counting Stars,OneRepublic,89,0.72,0.71,False
+Faded,Alan Walker,91,0.65,0.44,False
